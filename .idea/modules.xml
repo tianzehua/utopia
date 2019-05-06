@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/utopia.iml" filepath="$PROJECT_DIR$/utopia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-auth/utopia-auth.iml" filepath="$PROJECT_DIR$/utopia-auth/utopia-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-auth/utopia-auth-common/utopia-auth-common.iml" filepath="$PROJECT_DIR$/utopia-auth/utopia-auth-common/utopia-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-auth/utopia-auth-server/utopia-auth-server.iml" filepath="$PROJECT_DIR$/utopia-auth/utopia-auth-server/utopia-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-common/utopia-common.iml" filepath="$PROJECT_DIR$/utopia-common/utopia-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-common/utopia-common-base/utopia-common-base.iml" filepath="$PROJECT_DIR$/utopia-common/utopia-common-base/utopia-common-base.iml" />
+    </modules>
+  </component>
+</project>
